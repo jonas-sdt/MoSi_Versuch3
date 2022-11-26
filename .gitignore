@@ -1,3 +1,7 @@
 *:Zone.Identifier
 *.slxc
 *.slx.autosave
+*.tdms
+*.asv
+~$*.xlsx
+slprj/
